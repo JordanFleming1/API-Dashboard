@@ -62,4 +62,9 @@ apis/                     # Folder for each API page
 - Joke API: https://official-joke-api.appspot.com/
 - Art API: https://api.artic.edu/
 
+## License
+MIT
 
+---
+
+**Enjoy exploring APIs with art-inspired style!**
